@@ -1,59 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:120e43&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/mfeyz">mohammad feyzresan</a> 🚀</h1>
+<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
 
-<p align="center">
-  <em>Backend Software Engineer | Architecting Distributed Systems & High-Performance Apps</em>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mfeyz&label=Profile%20Views&color=00e5ff&style=flat" alt="Profile Views" />
-</p>
+<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
 
----
+<br><br>
 
-### 🌊 About Me
+<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
 
-- 🔭 I’m currently building scalable backend architectures and modern web platforms.
-- 🌱 Exploring distributed task processing, asynchronous workflows, and database tuning.
-- 💬 Ask me about **Python, Django, Celery, Redis, and Database Infrastructure**.
-- ⚡ In pursuit of clean code, high concurrency, and zero downtime.
+<br><br>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,git,bash,postman" />
-</div>
-
----
-
-### 📊 Aqua Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfeyz&show_icons=true&title_color=00e5ff&text_color=e0f7fa&icon_color=00e5ff&bg_color=0f172a&hide_border=true&count_private=true" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfeyz&layout=compact&title_color=00e5ff&text_color=e0f7fa&bg_color=0f172a&hide_border=true" height="150" alt="Top Languages" />
-</div>
+<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
+<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfeyz&theme=dark&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&background=0f172a&hide_border=true" alt="GitHub Streak" />
+<sub><strong>AQUA LAUNCH</strong> · animated profile system · powered by live GitHub data</sub>
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### Deploy this style
 
-<div align="center">
-  <a href="mailto:m.feyzresan@gmail.com"><img src="https://img.shields.io/badge/Email-m.feyzresan%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=0f172a" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120e43,100:00e5ff&height=120&section=footer" width="100%"/>
-</div>
+Follow [SETUP.md](./SETUP.md) to replace the photo, animate your own name, connect your GitHub data, and enable automatic daily updates.
