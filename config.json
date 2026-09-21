@@ -1,11 +1,11 @@
 {
-  "username": "Jenesyx",
-  "name": "Arta Bidkhori",
-  "wordmark": "ARTA",
-  "role": "Full-stack developer · AI automation builder",
-  "location": "Germany · from Tehran",
-  "status": "Building products, agents and memorable digital experiences.",
-  "website": "https://artabidkhori.com",
+  "username": "mfeyz",
+  "name": "Mohammad Feyzresan",
+  "wordmark": "MFEYZ",
+  "role": "Backend developer · Django · Linux & DevOps",
+  "location": "Computer Engineering Student",
+  "status": "Building production Django systems, APIs and Linux servers.",
+  "website": "https://mahauction.com",
   "photo": "assets/profile-source.png",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"]
+  "skills": ["Python", "Django", "DRF", "MySQL", "Linux", "Nginx"]
 }
